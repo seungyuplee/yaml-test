@@ -47,12 +47,12 @@ namespace yaml_test
                     },
                     new subclass()
                     {
-                        aa = "2",
+                        aa = "22",
                         subsubcla = new List<subsubclass>()
                         {
                             new subsubclass()
                             {
-                                aaa = "22"
+                                aaa = "222"
                             }
                         }
                     }
