@@ -1,0 +1,22 @@
+Integer: 28
+String: 최용국
+Boolean: false
+strArr:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+Area: 
+subcla:
+- aa: 1
+  subsubcla:
+  - aaa: 11
+- aa: 2
+  subsubcla:
+  - aaa: 22
